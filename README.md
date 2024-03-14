@@ -37,27 +37,27 @@ developers can create UI components using a declarative approach, similar to oth
 
 ## Custom widgets created
 ### Circular progress indicator
-|  Start  |  Mid  |  End  |
-| :-----: | :---: | :---: |
-| <img src="https://github.com/shah-vraj/OnlineLearning/raw/AddReadme/media/ProgressCircleStart.png" width=120 height=120 title="Sample circular progress start"> | <img src="https://github.com/shah-vraj/OnlineLearning/raw/AddReadme/media/ProgressCircleMid.png" width=120 height=120 title="Sample circular progress mid"> | <img src="https://github.com/shah-vraj/OnlineLearning/raw/AddReadme/media/ProgressCircleEnd.png" width=120 height=120 title="Sample circular progress end"> |
+|                                                                              Start                                                                               |                                                                             Mid                                                                              |                                                                             End                                                                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/ProgressCircleStart.png" width=120 height=120 title="Sample circular progress start"> | <img src="https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/ProgressCircleMid.png" width=120 height=120 title="Sample circular progress mid"> | <img src="https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/ProgressCircleEnd.png" width=120 height=120 title="Sample circular progress end"> |
 
 ### Base button
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/BaseButton.png "Sample base button")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/BaseButton.png "Sample base button")
 
 ### Base left image button
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/LeftImageButton.png "Sample base left image button")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/LeftImageButton.png "Sample base left image button")
 
 ### Base text field
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/BaseTextField.png "Sample base text field")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/BaseTextField.png "Sample base text field")
 
 ### Base search view
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/BaseSearchView.png "Sample base search view")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/BaseSearchView.png "Sample base search view")
 
 ### Base linear progress indicator
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/BaseLinearProgressIndicator.png "Sample base linear progress indicator")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/BaseLinearProgressIndicator.png "Sample base linear progress indicator")
 
 ### Bottom navigation
-![alt text](https://github.com/shah-vraj/OnlineLearning/raw/master/media/BottomNavigation.gif "Sample bottom navigation")
+![alt text](https://github.com/shah-vraj/JetpackComposeDemo/raw/master/media/BottomNavigation.gif "Sample bottom navigation")
 
 # Thanks
 Any suggestions or improvement points are always welcomed :)<br>
